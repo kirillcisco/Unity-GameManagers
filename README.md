@@ -1,7 +1,7 @@
 # Unity-GameManagers
 Game Managers (Inventory- and PlayerManager) like Model in MVC (Unity in action book example code)
 
-![diagram](img/image.png)
+![diagram](https://github.com/kirillcisco/Unity-GameManagers/blob/main/img/image.jpg)
 
 For a quick start:
 Add an empty object to the scene and attach the following scripts to it:
